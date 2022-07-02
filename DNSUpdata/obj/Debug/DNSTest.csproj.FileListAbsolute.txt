@@ -1,0 +1,601 @@
+D:\Đồ án NC\DNSTest\bin\Debug\DNSTest.exe.config
+D:\Đồ án NC\DNSTest\bin\Debug\DNSTest.exe
+D:\Đồ án NC\DNSTest\bin\Debug\DNSTest.pdb
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.csprojAssemblyReference.cache
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.client.resources
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.menu.resources
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.Properties.Resources.resources
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.resolver.resources
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.csproj.GenerateResource.cache
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.exe
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.pdb
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.foreiserver.resources
+D:\Đồ án NC\DNSTest\obj\Debug\DNSTest.nameserver.resources
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\DNSTest.exe.config
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\DNSTest.exe
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\DNSTest.pdb
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.foreiserver.resources
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.menu.resources
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.nameserver.resources
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.resolver.resources
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.exe
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.pdb
+D:\Đồ án NC\DNSTest (1)\DNSTest\bin\Debug\DNSTest.exe.config
+D:\Đồ án NC\DNSTest (1)\DNSTest\bin\Debug\DNSTest.exe
+D:\Đồ án NC\DNSTest (1)\DNSTest\bin\Debug\DNSTest.pdb
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.client.resources
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.foreiserver.resources
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.menu.resources
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.nameserver.resources
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.Properties.Resources.resources
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.resolver.resources
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.csproj.GenerateResource.cache
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.exe
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.pdb
+D:\Đồ án NC\DNSTest (1)\DNSTest\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\DNSTest.exe.config
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\DNSTest.exe
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\DNSTest.pdb
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\FireSharp.dll
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\DELL\Desktop\DNSTest\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.csproj.App.config
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.foreiserver.resources
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.menu.resources
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.nameserver.resources
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.resolver.resources
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.exe
+C:\Users\DELL\Desktop\DNSTest\obj\Debug\DNSTest.pdb
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\FireSharp.dll
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Admin\Desktop\DNSTest\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.csproj.App.config
+C:\Users\Admin\Desktop\DNSTest\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\DNSTest.exe.config
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\DNSTest.exe
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\DNSTest.pdb
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.csproj.App.config
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.menu.resources
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.exe
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.pdb
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\snappy32.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\snappy64.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\libzstd.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\mongocrypt.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\DnsClient.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\SharpCompress.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\DnsClient.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\MongoDB.Bson.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\MongoDB.Driver.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\DNSTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.Foreign_Server.resources
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\DELL\Desktop\DNSTest1\obj\Debug\DNSTest.AddNewDomain_Resolve.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\snappy32.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\snappy64.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\libzstd.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\mongocrypt.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\DNSTest.exe.config
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\DNSTest.exe
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\DNSTest.pdb
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\DnsClient.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\MongoDB.Bson.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\MongoDB.Driver.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\SharpCompress.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Buffers.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\DnsClient.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\MongoDB.Bson.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\MongoDB.Driver.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Buffers.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.csproj.App.config
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.Foreign_Server.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.AddNewDomain_Resolve.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.menu.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.exe
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.pdb
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.Foreign_Server1.resources
+C:\Users\AD\Downloads\DNSTest1\DNSTest1\obj\Debug\DNSTest.Name_Server1.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\snappy32.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\snappy64.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\libzstd.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\mongocrypt.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\DNSTest.exe.config
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\DNSTest.exe
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\DNSTest.pdb
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\DnsClient.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\MongoDB.Bson.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\MongoDB.Driver.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\SharpCompress.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Buffers.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\DnsClient.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\MongoDB.Bson.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\MongoDB.Driver.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Buffers.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.csproj.App.config
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.Foreign_Server.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.AddNewDomain_Resolve.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.menu.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.exe
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.pdb
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNSTest1\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\snappy32.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\snappy64.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\libzstd.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\mongocrypt.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\DNSTest.exe.config
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\DNSTest.exe
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\DNSTest.pdb
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\DnsClient.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\MongoDB.Bson.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\MongoDB.Driver.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\SharpCompress.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Buffers.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\DnsClient.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\MongoDB.Bson.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\MongoDB.Driver.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Buffers.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.csproj.App.config
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.Foreign_Server.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.AddNewDomain_Resolve.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.menu.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.exe
+C:\Users\`luc\Downloads\DNSTest1 (1)\DNS2\obj\Debug\DNSTest.pdb
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\snappy32.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\snappy64.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\libzstd.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\mongocrypt.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\DNSTest.exe.config
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\DNSTest.exe
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\DNSTest.pdb
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\DnsClient.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\MongoDB.Bson.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\MongoDB.Driver.Core.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\MongoDB.Driver.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Newtonsoft.Json.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\SharpCompress.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Buffers.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Net.Http.Extensions.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Net.Http.Primitives.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\DnsClient.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\MongoDB.Bson.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\MongoDB.Driver.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\MongoDB.Driver.Core.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\Newtonsoft.Json.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Buffers.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Net.Http.Extensions.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Net.Http.Primitives.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.csproj.App.config
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.csprojAssemblyReference.cache
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.Name_Server.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.Properties.Resources.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.Resolve_Server.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.Resolve_Server1.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.csproj.GenerateResource.cache
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.csproj.CopyComplete
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.exe
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.pdb
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\snappy32.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\snappy64.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\libzstd.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\mongocrypt.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.exe.config
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.exe
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.pdb
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\DnsClient.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Bson.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\SharpCompress.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Buffers.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\DnsClient.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Bson.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Buffers.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.App.config
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Foreign_Server.resources
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.menu.resources
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.exe
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.pdb
+C:\Users\`luc\Downloads\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.daily.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\snappy32.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\snappy64.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\libzstd.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\mongocrypt.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.exe.config
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.exe
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.pdb
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DnsClient.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Bson.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\SharpCompress.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Buffers.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DnsClient.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Bson.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Buffers.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.App.config
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.daily.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Foreign_Server.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.menu.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.exe
+C:\Users\AD\Downloads\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.pdb
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\snappy32.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\snappy64.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\libzstd.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\mongocrypt.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.exe.config
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.exe
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DNSTest.pdb
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DnsClient.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Bson.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.Core.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Newtonsoft.Json.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\SharpCompress.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Buffers.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Extensions.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Primitives.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\DnsClient.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Bson.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\MongoDB.Driver.Core.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\Newtonsoft.Json.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Buffers.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Extensions.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Net.Http.Primitives.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.App.config
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csprojAssemblyReference.cache
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.History.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.ForeignName_Server.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.MainForm.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Name_Server.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Properties.Resources.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Resolve_Server.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.Resolve_Server1.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.GenerateResource.cache
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.csproj.CopyComplete
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.exe
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata-design\DNSUpdata-design\DNSUpdata\obj\Debug\DNSTest.pdb
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\snappy32.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\snappy64.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\libzstd.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\mongocrypt.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\DNSTest.exe.config
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\DNSTest.exe
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\DNSTest.pdb
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\DnsClient.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\SharpCompress.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\DnsClient.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Admin\Desktop\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.csproj.App.config
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.History.resources
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.ForeignName_Server.resources
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.MainForm.resources
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.exe
+C:\Users\Admin\Desktop\DNSUpdata\obj\Debug\DNSTest.pdb
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.History.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.ForeignName_Server.resources
+D:\LAP_TRINH_MANG_CAN_BAN\Demo\DNSUpdata\obj\Debug\DNSTest.MainForm.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\snappy32.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\snappy64.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\libzstd.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\mongocrypt.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\DNSTest.exe.config
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\DNSTest.exe
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\DNSTest.pdb
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\DnsClient.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\MongoDB.Bson.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\MongoDB.Driver.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\SharpCompress.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Buffers.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\DnsClient.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\MongoDB.Bson.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\MongoDB.Driver.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Buffers.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.csproj.App.config
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.History.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.ForeignName_Server.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.MainForm.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.exe
+C:\Users\AD\Downloads\DNSUpdata-truc2\DNSUpdata\obj\Debug\DNSTest.pdb
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\snappy32.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\snappy64.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\libzstd.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\mongocrypt.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\DNSTest.exe.config
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\DNSTest.exe
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\DNSTest.pdb
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\DnsClient.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\SharpCompress.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\DnsClient.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.csproj.App.config
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.History.resources
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.ForeignName_Server.resources
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.MainForm.resources
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.Name_Server.resources
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.Resolve_Server.resources
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.Resolve_Server1.resources
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.csproj.CopyComplete
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.exe
+C:\Users\Admin\Desktop\4-7-final-server\DNSUpdata\obj\Debug\DNSTest.pdb
